@@ -1,0 +1,3 @@
+data = 'Founded in 1961, Feng Chia University was restructured into a university in 1980. It has 10 colleges including College of Engineering and Science, College of Business, College of Humanities and Social Sciences, College of Information and Electrical Engineering, College of Construction and Development, College of Finance, International School of Technology and Management, School of Management Development, and iSchool.The school has more than 20,000 students, with the vision of "becoming a well-known university in the Asia-Pacific region with excellent teaching and breakthrough research" as the school\'s development vision, and "cultivating modern and democratic citizens with both humanities and professional knowledge" as the educational goal.'
+
+
